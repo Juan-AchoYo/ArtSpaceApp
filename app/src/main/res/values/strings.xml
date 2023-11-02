@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="title_1">El grito</string>
+    <string name="subtitle_1">Edvard Munch (1893)</string>
+    <string name="description_1">Persona que grita con desasosiego</string>
+    <string name="title_2">Impresión, salida del sol</string>
+    <string name="subtitle_2">Claude Monet (1874)</string>
+    <string name="description_2">Tampoco sale tanto el sol</string>
+    <string name="title_3">Las meninas</string>
+    <string name="subtitle_3">Diego Velázquez (1656)</string>
+    <string name="description_3">Más bien las mininas</string>
+    <string name="title_4">Mona Lisa o Gioconda</string>
+    <string name="subtitle_4">Leonardo Da Vinci (1503–1510)</string>
+    <string name="description_4">Mujer con mirada enigmática</string>
+    <string name="title_5">La noche estrellada</string>
+    <string name="subtitle_5">Vincent Van Gogh (1889)</string>
+    <string name="description_5">Una locura de cuadro</string>
+    <string name="title_6">Noctámbulos</string>
+    <string name="subtitle_6">Edward Hopper (1942)</string>
+    <string name="description_6">Gente nocturna sin oficio ni beneficio</string>
+    <string name="title_7">Las señoritas de Avignon</string>
+    <string name="subtitle_7">Pablo Picasso (1906–1907)</string>
+    <string name="description_7">Mujeres muy sensuales, no cabe duda</string>
+
+</resources>
